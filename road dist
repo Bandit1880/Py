@@ -1,3 +1,5 @@
-a = 27.5
-b = 8.5
-print(a*(b*6))
+price = 39.5
+fuel = 10.5
+r = float(input('Ввести (км) - '))
+total = fuel / 100 * price * r *2
+print('Summa =', total, 'UAH')
