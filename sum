@@ -1,0 +1,10 @@
+a = int(input("Input a "))
+b = int(input("Input b "))
+sum_1= a + b
+difference_1 = a - b
+product_1 = a * b
+quotient_1 = a / b
+print("a+b =", sum_1)
+print("a-b =", difference_1)
+print("a*b =", product_1)
+print("a/b =", quotient_1)
